@@ -12,7 +12,7 @@ before Deploying Change your Credentials in Vars.py
 
 ```
 sudo apt update
-git clone https://github.com/rishavdevkr/cpdown
+git clone https://github.com/sumitisonline277/cpdown
 cd cpdown
 pip3 install -r requirements.txt
 python3 main.py
